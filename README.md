@@ -26,3 +26,4 @@
 
 ## Note
 - Before Run migrate command create first database.sqlite file in Database folder
+- Admin Can only Added the Movies.
